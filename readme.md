@@ -41,15 +41,3 @@ Creating API Wrapper
 ## JavaScript
 
 - TBA
-
-
-
-## Configs
-
-
-paste this in your .git/config
-```
-[user]
-        name = Tasteless Degenerate
-        email = mynftstory@gmail.com
-```
